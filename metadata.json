@@ -1,0 +1,6 @@
+{
+  "name": "AQUASENSE — Monitorização e Gestão da Água",
+  "description": "Sistema Inteligente de Monitorização e Gestão da Água em Angola. Leitura automatizada de consumo, detecção de fugas e acompanhamento físico-químico da qualidade da água.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
